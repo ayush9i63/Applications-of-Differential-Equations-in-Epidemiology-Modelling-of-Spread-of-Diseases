@@ -44,4 +44,4 @@ For any questions or further information, please connect with Krishna Dutt Ojha 
 
 ---
 
-Thank you for exploring the applications of differential equations in epidemiology with us!
+Thank you for exploring the applications of differential equations in epidemiology with me!
